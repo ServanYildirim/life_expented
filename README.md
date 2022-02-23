@@ -6,12 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## This project simply calculates your remaining life time.. :)) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# life_expented
+Of course the result of not true :).. 
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-02-23 at 15 30 14](https://user-images.githubusercontent.com/94606699/155320124-257e658e-4b35-4de9-a927-2947e979986a.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-02-23 at 15 30 16](https://user-images.githubusercontent.com/94606699/155320129-fdf03ccb-49e4-4f8b-afff-473ebf373a70.png)
